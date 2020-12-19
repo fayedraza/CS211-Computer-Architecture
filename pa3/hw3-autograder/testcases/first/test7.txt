@@ -1,0 +1,6 @@
+10
+set	16	1
+set	-1	0
+get	-1	0
+get	1	0
+comp	-5	0
